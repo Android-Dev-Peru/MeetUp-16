@@ -3,19 +3,19 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
 ## Charlas :
 
-- ** "Java to Kotlin: From Zero to Hero" - Bruno Aybar
+- **"Java to Kotlin: From Zero to Hero" - Bruno Aybar**
 
  Slide 
 
  Repo 
 
-- ** "Kotlin Extensions with Anko and Android KTX" - Kevin Salazar
+- **"Kotlin Extensions with Anko and Android KTX" - Kevin Salazar**
 
  Slide 
 
  Repo 
 
-- ** "Conceptos básicos sobre patrones de arquitectura para Android" - Jose Quispe Irrazábal
+- **"Conceptos básicos sobre patrones de arquitectura para Android" - Jose Quispe Irrazábal**
 
  Slide 
 
