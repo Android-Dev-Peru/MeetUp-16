@@ -19,7 +19,8 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
  Slide : https://goo.gl/UMtwMZ
 
- Repo  :
+ Repo  : https://github.com/jflavio1/Android-UI-Architectures
+         https://github.com/jflavio1/AndroidCleanArchitectureSample
  
 
 ## Organización 
