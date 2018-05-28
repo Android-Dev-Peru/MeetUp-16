@@ -17,9 +17,9 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
 - **"Conceptos básicos sobre patrones de arquitectura para Android" - Jose Quispe Irrazábal**
 
- Slide 
+ Slide : https://goo.gl/UMtwMZ
 
- Repo 
+ Repo  :
  
 
 ## Organización 
