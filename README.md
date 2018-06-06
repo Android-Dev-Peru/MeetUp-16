@@ -11,9 +11,13 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
 - **"Kotlin Extensions with Anko and Android KTX" - Kevin Salazar**
 
- Slide 
+ Slide : https://goo.gl/SRs8JF
 
- Repo 
+ Repo :
+ 
+       https://github.com/kevicsalazar/UpLabs-Kotlin
+       
+       https://github.com/kevicsalazar/ExploringKotlinExtensions-Android
 
 - **"Conceptos básicos sobre patrones de arquitectura para Android" - Jose Quispe Irrazábal**
 
