@@ -5,9 +5,7 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
 - **"Java to Kotlin: From Zero to Hero" - Bruno Aybar**
 
- Slide 
-
- Repo 
+      https://github.com/Bruno125/Java-to-Kotlin-From-Zero-to-Hero
 
 - **"Kotlin Extensions with Anko and Android KTX" - Kevin Salazar**
 
