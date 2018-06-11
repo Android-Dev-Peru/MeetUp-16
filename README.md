@@ -5,17 +5,17 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
 - *"Java to Kotlin: From Zero to Hero" - Bruno Aybar*
 
-      https://github.com/Bruno125/Java-to-Kotlin-From-Zero-to-Hero
+https://github.com/Bruno125/Java-to-Kotlin-From-Zero-to-Hero
 
 - *"Kotlin Extensions with Anko and Android KTX" - Kevin Salazar*
 
- Slide : https://goo.gl/SRs8JF
+Slide : https://goo.gl/SRs8JF
 
  Repo :
  
-       https://github.com/kevicsalazar/UpLabs-Kotlin
+ https://github.com/kevicsalazar/UpLabs-Kotlin
        
-       https://github.com/kevicsalazar/ExploringKotlinExtensions-Android
+ https://github.com/kevicsalazar/ExploringKotlinExtensions-Android
 
 - *"Conceptos básicos sobre patrones de arquitectura para Android" - Jose Quispe Irrazábal*
 
@@ -23,9 +23,9 @@ Java to Kotlin - Anko and Android KTX - Patrones de arquitectura
 
  Repo  : 
          
-         https://github.com/jflavio1/Android-UI-Architectures
+   https://github.com/jflavio1/Android-UI-Architectures
          
-         https://github.com/jflavio1/AndroidCleanArchitectureSample
+   https://github.com/jflavio1/AndroidCleanArchitectureSample
  
 
 ## Organización 
